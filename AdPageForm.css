@@ -1,0 +1,113 @@
+body {
+  background-color: white;
+  background-image: url("blur.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.top-header-h1{
+  margin-top: 25px;
+  color: brown;
+  margin-left: 20px;
+}
+.product-h3{
+  color: brown;
+  margin-left: 20px;
+}
+div.a{
+	text-align: center;
+
+}
+.input-field-text{
+  width: 30%;
+  padding: 8px 6px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=submit] {
+	border-radius: 20px;
+	border-color: blue;
+	height: 55px;
+	size: 80px;
+  width: 150px;
+}
+div.fset{
+	margin-left: 315px;
+}
+
+fieldset
+{
+border-radius: 30px;
+  text-align: center;
+  border-color: blue;
+  font-family: Arial;
+  border: 200%;
+  background-color:#CCC;
+  max-width:700px;
+  padding:8px;
+}
+.header-top{
+	border-radius: 20px;
+	text-align: center;
+  border-color: blue;
+  font-family: Arial;
+  border: blue, 200%;
+  background-color:#CCC;
+  max-width:700px;
+  padding:8px;
+	margin-left: 320px;
+	max-width:715px;
+    padding:16px;
+	border: 200%;
+	border-color: blue;
+  padding: 1px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  text-decoration-color: white;
+
+}
+.footer-bottom{
+	border-radius: 20px;
+	text-align: center;
+  border-color: blue;
+  font-family: Arial;
+  border: 200%;
+  background-color:#CCC;
+  max-width:700px;
+  padding:8px;
+	margin-left: 320px;
+	max-width:715px;
+	border: 200%;
+	border-color: blue;
+  padding: 1px;
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  text-decoration-color: white;
+  background-color:#CCC;
+}
+.btme{
+ font-size:20px;
+ color : black;
+ margin: 100px 150px 70px 80px;
+ margin-left: 200px;
+
+
+
+           font-weight: 500;
+           background-color:#00b894;
+           font-transform: uppercase;
+               padding :2px 15px;
+          outline: bold;
+          border-radius : 7px;
+          text-shadow: 1px 1px 1px black;
+
+          text-decoration:none;
+          transition: all .5s ease;
+
+}
+.btme:hover {
+                  background : white;
+                  color : black;
+}

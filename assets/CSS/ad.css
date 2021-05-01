@@ -1,0 +1,30 @@
+.card{
+  width:  200px;
+  height: 230px;
+  background-image: url('C:/Users/ANIRUDH/Desktop/Rent-mitro-copy-main/assets/img/image22.jpg');
+  display: inline-block;
+  border-radius: 20px;
+  padding: 15px 25px 60px;
+  box-sizing: border-box;
+  cursor: pointer;
+  margin: 70px 15px;
+    background-position:center;
+  background-size: cover;
+ color: white;
+ text-decoration:none;
+ font-family:cursive;
+ transition: transform 0.5s;
+box-shadow: 2px 2px 20px black;
+}
+.category{
+  font-family:serif;
+  margin: 30px;
+}
+.cate{
+  margin: 30px;
+}
+.card:hover{
+transform: translateY(-10px);
+color : white;
+
+}

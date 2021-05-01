@@ -1,0 +1,87 @@
+
+
+
+.form-container{
+    width: 65%;
+    margin:auto;
+    margin-top: 20px;
+    border: solid 1px #e5e7eb;
+    display: flex;
+    flex-direction: column;
+}
+
+.include-details-div{
+    width: 60%;
+    /* text-align: left; */
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+}
+
+.include-details-header{
+    text-align: left;
+    display: inline-block;
+    width: 90%;
+    /* margin-top: 20px; */
+    margin-bottom: 10px;
+    
+}
+
+.ad-title-div,.book-title-div,.author-name-div,.ISBN-number-div{
+    margin: auto;
+    width: 90%;
+    text-align: left;
+}
+
+.ad-title-label,.ad-title-input,.book-title-label,.book-title-input,.author-name-label,.author-name-input,
+.ISBN-number-label,.ISBN-number-input{
+    display: block;
+}
+
+.ad-title-input,.book-title-input,.author-name-input,.ISBN-number-input{
+    width: 95%;
+    height: 40px;
+    border: solid 1px
+    border-radius: 3px;
+}
+
+.ad-title-warning,.ad-title-limit,.book-title-warning,.book-title-limit,.author-name-warning,.author-name-limit
+,.ISBN-number-warning,.ISBN-number-limit{
+    font-size: 13px;
+}
+
+.ad-title-warning{
+    padding-right: 30px;
+}
+
+..ad-title-limit{
+    padding-left: 30px;
+}
+
+.book-title-warning{
+    padding-right: 120px;
+}
+
+.book-title-limit{
+    padding-left: 123px;
+}
+
+.author-name-warning{
+    padding-right: 118px;
+}
+
+.author-name-limit{
+    padding-left: 118px;
+}
+
+.ISBN-number-warning{
+    padding-right: 97px;
+}
+
+.ISBN-number-limit{
+    padding-left: 97px;
+}
+
+.book-title-div,.author-name-div,.ISBN-number-div{
+    margin-top: 30px;
+}
